@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "3. Phishing with Microsoft Office"
             }
+          },
+          {
+            "id": "63d4e1dd03f57c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +181,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2c46ef04adbd781c",
+  "active": "63d4e1dd03f57c12",
   "lastOpenFiles": [
+    "OffSec/OSEP/Course/3. Phishing with Microsoft Office.md",
+    "1. README.md",
     "WATT",
     "OffSec/Cloud/Cloud Computing Network Forensics/z. images/fdd9620ef74a7a1353ed5a0faa57652e_MD5.jpg",
     "OffSec/Cloud/Cloud Attacks - Reconnaissance Skill Path/z. images/c89e5a94c18951a0452ee208c538934e_MD5.jpg",
@@ -202,7 +219,6 @@
     "OffSec/Cloud/Public Cloud Reconnaissance - External Probing/z. images",
     "OffSec/Cloud/Offensive Cloud Foundations/z. images",
     "OffSec/Cloud/Cloud Essentials/z. images",
-    "OffSec/Cloud/Cloud Attacks - CICD Skill Path/z. images",
     "OffSec/Cloud/Cloud Computing Network Forensics/Cloud Computing Network Forensics.md",
     "OffSec/Cloud/Cloud Computing Network Forensics/3. Cloud Native Forensics.md",
     "OffSec/Cloud/Cloud Computing Network Forensics/2. Using eBPF Data.md",
@@ -212,7 +228,6 @@
     "OffSec/Cloud/Cloud Attacks - Reconnaissance Skill Path/3. Enumerating AWS Cloud Infrastructure.md",
     "OffSec/Cloud/Cloud Attacks - Exposed Service Discovery Skill Path/1. Discovering Exposed Docker Sockets.md",
     "OffSec/Cloud/Cloud Attacks - Exposed Service Discovery Skill Path/2. Discovering Exposed Kubernetes Dashboards.md",
-    "OffSec/Cloud/Public Cloud Reconnaissance - External Probing/3. Reconnaissance via Cloud Service Provider's API.md",
-    "OffSec/Cloud/Public Cloud Reconnaissance - External Probing/2. Reconnaissance of Cloud Resources on the Internet.md"
+    "OffSec/Cloud/Public Cloud Reconnaissance - External Probing/3. Reconnaissance via Cloud Service Provider's API.md"
   ]
 }
