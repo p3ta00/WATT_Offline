@@ -1,0 +1,155 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Certs": {
+      "icon": "lucide-letter-text",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "purple"
+    },
+    "Clippings": {
+      "icon": "💹",
+      "color": "yellow",
+      "unsynced": [
+        "d332902102807252"
+      ]
+    },
+    "HTB": {
+      "icon": "😖",
+      "unsynced": [
+        "d332902102807252"
+      ]
+    },
+    "HTB/HTB Academy Cheat Sheets": {
+      "icon": "lucide-message-circle-heart",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "green"
+    },
+    "HTB/HTB Academy Notes": {
+      "icon": "lucide-notepad-text-dashed",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "green"
+    },
+    "HTB/HTB Solutions": {
+      "icon": "lucide-scroll-text",
+      "color": "green",
+      "unsynced": [
+        "d332902102807252"
+      ]
+    },
+    "HTB/Prolabs": {
+      "icon": "lucide-gitlab",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "green"
+    },
+    "Offsec": {
+      "icon": "🥷",
+      "unsynced": [
+        "d332902102807252"
+      ]
+    },
+    "Offsec/Cloud": {
+      "icon": "lucide-cloudy",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "blue"
+    },
+    "Offsec/OSCP": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "blue"
+    },
+    "Offsec/OSEP": {
+      "icon": "lucide-radiation",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "blue"
+    },
+    "Offsec/OSWE": {
+      "icon": "lucide-webhook",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "blue"
+    },
+    "Private": {
+      "icon": "open-vault",
+      "unsynced": [
+        "d332902102807252"
+      ],
+      "color": "red"
+    },
+    "Resources": {
+      "icon": "📬",
+      "color": "cyan",
+      "unsynced": [
+        "d332902102807252"
+      ]
+    },
+    "Serials": {
+      "icon": "lucide-separator-horizontal",
+      "color": "pink",
+      "unsynced": [
+        "d332902102807252"
+      ]
+    },
+    "Tools": {
+      "icon": "lucide-pen-tool",
+      "color": "orange",
+      "unsynced": [
+        "d332902102807252"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "xbDWl",
+      "name": "Untitled rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    }
+  ],
+  "folderRules": []
+}

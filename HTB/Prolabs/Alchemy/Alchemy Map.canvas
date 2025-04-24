@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d5cf263c594d50c8","type":"text","text":"# 10.10.110.21 / 172.16.0.21\n[[Web Server]]\n\n### Port Enumeration\n```rust\n22/tcp   open|filtered ssh\n80/tcp   open|filtered http\n3000/tcp open|filtered ppp\n```\n### Web Enumeration\n```rust\ncalde_ldap : CsAdlLDAPMoDeBrnd12!\n```\n### Git Enumeration\n```rust\naepike : LandIAtErOUs\n```\n### Priv Esc\nPwnKit\nhttps://github.com/ly4k/PwnKit\n\nPivot to Internal and Enumerate IP's","x":-1940,"y":-280,"width":420,"height":680},
+		{"id":"a5968b0f311de19d","type":"text","text":"172.16.0.21","x":-1220,"y":-460,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ccdc158b996c895f","fromNode":"d5cf263c594d50c8","fromSide":"right","toNode":"a5968b0f311de19d","toSide":"bottom"}
+	]
+}
