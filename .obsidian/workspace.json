@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. README.md",
+                "file": "Private/OSEP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. README"
+              "title": "OSEP"
             }
           }
         ],
@@ -183,9 +183,9 @@
   },
   "active": "63d4e1dd03f57c12",
   "lastOpenFiles": [
+    "1. README.md",
     "Private/OSEP.md",
     "Untitled.md",
-    "1. README.md",
     "OffSec/OSEP/Challenges/Sliver.md",
     "OffSec/OSEP/Challenges/Links.md",
     "OffSec/OSEP/Challenges/CowMotors/CowMotors.md",
