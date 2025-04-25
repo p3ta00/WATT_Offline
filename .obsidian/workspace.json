@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OffSec/OSCP/16. Password Attacks.md",
+                "file": "1. README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Password Attacks"
+              "title": "1. README"
             }
           }
         ],
@@ -183,6 +183,18 @@
   },
   "active": "63d4e1dd03f57c12",
   "lastOpenFiles": [
+    "Private/OSEP.md",
+    "Untitled.md",
+    "1. README.md",
+    "OffSec/OSEP/Challenges/Sliver.md",
+    "OffSec/OSEP/Challenges/Links.md",
+    "OffSec/OSEP/Challenges/CowMotors/CowMotors.md",
+    "OffSec/OSEP/Course/2. Operating System and Programming Theory.md",
+    "OffSec/OSEP/Course/1. Evasion Techniques and Breaching Defenses General Course Information.md",
+    "OffSec/OSEP/Notes/OSEP cheatsheet.md",
+    "OffSec/OSEP/Notes/osep-toolbox.md",
+    "OffSec/OSEP cheatsheet.md",
+    "OffSec/OSCP/16. Password Attacks.md",
     "OffSec/OSCP/4. Effective Learning Strategies.md",
     "OffSec/OSEP/Course/17. Linux Lateral Movement.md",
     "OffSec/OSEP/Course/15. Windows Credentials.md",
@@ -207,18 +219,6 @@
     "OffSec/OSCP/22. Active Directory Introduction and Enumeration.md",
     "OffSec/OSCP/21. The Metasploit Framework.md",
     "OffSec/OSCP/20. Tunneling Through Deep Packet Inspection.md",
-    "OffSec/OSCP/19. Port Redirection and SSH Tunneling.md",
-    "OffSec/OSCP/18. Linux Privilege Escalation.md",
-    "OffSec/OSCP/17. Windows Privilege Escalation.md",
-    "OffSec/OSCP/16. Password Attacks.md",
-    "OffSec/OSCP/9. Common Web Application Attacks.md",
-    "OffSec/OSCP/15. Antivirus Evasion.md",
-    "OffSec/OSCP/14. Fixing Exploits.md",
-    "OffSec/OSCP/13. Phishing Basics.md",
-    "OffSec/OSCP/12. Locating Public Exploits.md",
-    "OffSec/OSCP/10. SQL Injection Attacks.md",
-    "OffSec/OSCP/6. Information Gathering.md",
-    "OffSec/OSCP/8. Introduction to Web Application Attacks.md",
     "OffSec/OSCP/z. images",
     "HTB/HTB Academy Cheat Sheets/z. images",
     "WATT",
